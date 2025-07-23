@@ -52,12 +52,16 @@ Client se baat, payment, aur delivery sab hum handle karenge – aap sirf design
 *(Portfolio bhejna zaroori hai)*
 
 ---
+## 📝 How to Order a Design
 
-## 📥 How to Request a Design
+1. 📥 Download or open the form: [`design-request-template.md`](./Forms/design-request-template.md)
+2. ✍️ Fill in all the required details
+3. 📩 Send it to us via WhatsApp or Email
 
-1. Go to: [`design-request-template.md`](./forms/design-request-template.md)  
-2. Template copy karein aur details bharein  
-3. Send it to us via WhatsApp or Email
+---
+
+📱 **WhatsApp:** +91-9921437547  
+📧 **Email:** mustafaqureahi786@gmail.com
 
 ---
 
